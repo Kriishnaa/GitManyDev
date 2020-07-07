@@ -17,6 +17,12 @@ git add .
 git commit -m "message"
 git push
 ////////////
+Dev3 Begin
+//////////////
+///////////////////
+////////////////////////
+//////////////////////////
+Dev3 End
 1) Clone repository in your local dir (or create a new repository):
 
 $ cd /var/www
