@@ -3,7 +3,9 @@ Dev 1 Updates here
 //****************//
 git config --list
 git config --global user.name "FIRST_NAME LAST_NAME"
-
+//****************//
+Dev 2 Updates here  
+//****************//
 git config --global user.email "MY_NAME@example.com"
 ////////////
 git init
